@@ -1,0 +1,3 @@
+Name: Sergio
+Age: 32
+Favourite animal: cat :3
